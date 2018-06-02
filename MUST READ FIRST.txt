@@ -1,0 +1,18 @@
+Hello User,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I am the creator of this bot, and the simple way to start this bot is to open it 
+in the *run* file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if the program dosn't work, open powershell by selecting the opened file and run 
+Shift + rightclick to open powershell to input these commands...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm install -g nodemon
+npm install superagent
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If this still dosn't work, contact me with
+chongoman04@outlook.com
+so i can fix any bugs with the bot.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+thank you for using my bot
+
+&copywrite-2018
